@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-    <a href="https://soundcloud.com/cleber-rodrigues-570119605/podcast-logica-de-programacao" _blank>Ouvir podcast editado</a>
+<a href="https://soundcloud.com/cleber-rodrigues-570119605/podcast-logica-de-programacao" target="_blank">Ouvir podcast editado</a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
