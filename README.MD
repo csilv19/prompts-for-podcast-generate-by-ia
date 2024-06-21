@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcastFINALEDITADO.mp3" controls title="Podcast editado"></audio>
+    <audio src="https://on.soundcloud.com/qut3KQBnnRtPtKKJA" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
