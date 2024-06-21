@@ -1,5 +1,5 @@
 <p align="center">
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1853984565&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cleber-rodrigues-570119605" title="Cleber Rodrigues" target="_blank" style="color: #cccccc; text-decoration: none;">Cleber Rodrigues</a> · <a href="https://soundcloud.com/cleber-rodrigues-570119605/podcast-logica-de-programacao" title="Podcast &quot;Lógica de Programação&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">Podcast &quot;Lógica de Programação&quot;></a></div>
+    <img src="assets/cover.webp" alt="capa">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <audio src="https://on.soundcloud.com/qut3KQBnnRtPtKKJA" controls title="Podcast editado"></audio>
+    <a href="https://soundcloud.com/cleber-rodrigues-570119605/podcast-logica-de-programacao">Ouvir podcast editado</a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
