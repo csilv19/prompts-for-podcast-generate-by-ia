@@ -1,5 +1,8 @@
 <p align="center">
-    <img src="assets/cover.webp" alt="capa">
+    <img src="assets/cover.webp" 
+    alt="capa"
+    width="300px"
+    height="300px">
 </p>
 
 <p align="center">
